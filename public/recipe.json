@@ -1,0 +1,110 @@
+[
+    {
+      "recipe_id": "001",
+      "recipe_name": "Hearty Beef Stew",
+      "recipe_image": "https://i.ibb.co.com/nkPBgzF/1.jpg",
+      "short_description": "A delicious and hearty beef stew.",
+      "ingredients": [
+        "Beef chunks",
+        "Carrots",
+        "Potatoes",
+        "Onions",
+        "Garlic",
+        "Beef broth",
+        "Tomato paste",
+        "Thyme"
+      ],
+      "preparing_time": 120,
+      "calories": 350
+    },
+    {
+      "recipe_id": "002",
+      "recipe_name": "Classic Caesar Salad",
+      "recipe_image": "https://i.ibb.co.com/Sv4FvPh/2.jpg",
+      "short_description": "Classic Caesar salad with a tangy dressing.",
+      "ingredients": [
+        "Romaine lettuce",
+        "Croutons",
+        "Parmesan cheese",
+        "Caesar dressing",
+        "Anchovies",
+        "Lemon juice",
+        "Olive oil",
+        "Garlic"
+      ],
+      "preparing_time": 20,
+      "calories": 180
+    },
+    {
+      "recipe_id": "003",
+      "recipe_name": "Creamy Mushroom Pasta",
+      "recipe_image": "https://i.ibb.co.com/VpDbwn1/3.jpg",
+      "short_description": "Creamy mushroom pasta perfect for dinner.",
+      "ingredients": [
+        "Pasta",
+        "Mushrooms",
+        "Heavy cream",
+        "Garlic",
+        "Parmesan cheese",
+        "Olive oil",
+        "Parsley",
+        "Black pepper"
+      ],
+      "preparing_time": 30,
+      "calories": 400
+    },
+    {
+      "recipe_id": "004",
+      "recipe_name": "Tropical Fruit Smoothie",
+      "recipe_image": "https://i.ibb.co.com/W2kLBWH/4.jpg",
+      "short_description": "A refreshing tropical fruit smoothie.",
+      "ingredients": [
+        "Mango",
+        "Pineapple",
+        "Banana",
+        "Orange juice",
+        "Greek yogurt",
+        "Honey",
+        "Ice cubes"
+      ],
+      "preparing_time": 10,
+      "calories": 150
+    },
+    {
+      "recipe_id": "005",
+      "recipe_name": "Spicy Fried Chicken Wings",
+      "recipe_image": "https://i.ibb.co.com/PGvNsqX/5.jpg",
+      "short_description": "Crispy fried chicken wings with a spicy glaze.",
+      "ingredients": [
+        "Chicken wings",
+        "Flour",
+        "Eggs",
+        "Breadcrumbs",
+        "Hot sauce",
+        "Honey",
+        "Butter",
+        "Garlic powder"
+      ],
+      "preparing_time": 45,
+      "calories": 450
+    },
+    {
+      "recipe_id": "006",
+      "recipe_name": "Comforting Lentil Soup",
+      "recipe_image": "https://i.ibb.co.com/r66VMJ3/6.jpg",
+      "short_description": "Warm and comforting lentil soup.",
+      "ingredients": [
+        "Lentils",
+        "Carrots",
+        "Celery",
+        "Onion",
+        "Garlic",
+        "Vegetable broth",
+        "Tomato paste",
+        "Cumin"
+      ],
+      "preparing_time": 59,
+      "calories": 250
+    }
+  ]
+  
